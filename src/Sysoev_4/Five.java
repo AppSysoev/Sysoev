@@ -24,7 +24,7 @@ public class Five {
                 System.out.print(x / y );
                 break;
             default:
-                System.out.println("Операция не распознана. Повторите ввод.");
+                System.out.println("Операция не распознана.Повторите ввод.");
         }
     }
 

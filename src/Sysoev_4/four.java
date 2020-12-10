@@ -8,7 +8,7 @@ public class four {
         double x = in.nextDouble();
         System.out.print("Введите y: ");
         double y = in.nextDouble();
-        System.out.print("Введите z: ");
+        System.out.print("Введите z:");
         double z = in.nextDouble();
         double a = (x + y + z) / 3;
         System.out.println(a);
