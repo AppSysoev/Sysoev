@@ -38,7 +38,7 @@ public class Total_3 {
                     }
                 }
             }
-            System.out.println("количество уникальных символов = " + UniQ);
+            //System.out.println("количество уникальных символов = " + UniQ); для проверки
             sums[c] = UniQ;
             if (sums[c] > max)
             {
